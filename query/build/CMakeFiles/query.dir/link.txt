@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/query.dir/QueryTest.cc.o CMakeFiles/query.dir/TextQuery.cc.o CMakeFiles/query.dir/QueryResult.cc.o CMakeFiles/query.dir/Query.cc.o CMakeFiles/query.dir/OrQuery.cc.o CMakeFiles/query.dir/NorQuery.cc.o CMakeFiles/query.dir/AndQuery.cc.o  -o query 

@@ -1,0 +1,3 @@
+/home/jabin/programme/gitprojects/c11primer/query/build/CMakeFiles/rebuild_cache.dir
+/home/jabin/programme/gitprojects/c11primer/query/build/CMakeFiles/query.dir
+/home/jabin/programme/gitprojects/c11primer/query/build/CMakeFiles/edit_cache.dir

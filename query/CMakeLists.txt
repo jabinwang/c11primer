@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10.2)
+project(query)
+set(CMAKE_BUILD_TYPE "Debug")
+set(CMAKE_CXX_STANDARD 11)
+add_executable(query QueryTest.cc TextQuery.cc QueryResult.cc Query.cc OrQuery.cc NorQuery.cc AndQuery.cc)
