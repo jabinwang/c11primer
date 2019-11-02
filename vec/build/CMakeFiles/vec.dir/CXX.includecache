@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jabin/programme/gitprojects/c11primer/vec/MyStr.cpp
+MyStr.h
+/home/jabin/programme/gitprojects/c11primer/vec/MyStr.h
+
+/home/jabin/programme/gitprojects/c11primer/vec/MyStr.h
+string
+-
+utility
+-
+memory
+-
+
+/home/jabin/programme/gitprojects/c11primer/vec/MyStrTest.cc
+MyStr.h
+/home/jabin/programme/gitprojects/c11primer/vec/MyStr.h
+iostream
+-
+

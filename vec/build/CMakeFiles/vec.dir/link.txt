@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/vec.dir/MyStr.cpp.o CMakeFiles/vec.dir/MyStrTest.cc.o  -o vec 

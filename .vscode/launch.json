@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/query/build/query",
+            "program": "${workspaceFolder}/vec/build/vec",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

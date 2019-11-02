@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MyStr.h.dir/MyStr.cpp.o CMakeFiles/MyStr.h.dir/MyStrTest.cc.o  -o MyStr.h 
